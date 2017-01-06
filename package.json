@@ -1,0 +1,26 @@
+{
+  "name": "justreq-cli",
+  "version": "0.1.1",
+  "description": "justreq CLI程序",
+  "bin": {
+    "justreq": "bin/justreq"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilien/justreq-cli.git"
+  },
+  "author": "Vilien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilien/justreq-cli/issues"
+  },
+  "homepage": "https://github.com/vilien/justreq-cli#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "mkdirp": "^0.5.1"
+  }
+}
