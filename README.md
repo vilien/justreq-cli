@@ -1,7 +1,7 @@
 # justreq CLI
 ## install
 ```java
-npm install justreq-cli -g
+npm install -g justreq-cli
 ```
 
 ## usage
