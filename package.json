@@ -1,6 +1,6 @@
 {
   "name": "justreq-cli",
-  "version": "0.3.11",
+  "version": "0.4.1",
   "description": "justreq CLI",
   "bin": {
     "justreq": "bin/justreq"
